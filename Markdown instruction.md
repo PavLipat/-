@@ -25,6 +25,8 @@
 ![Markdown](Картинка.jpeg)
 
 ## Ссылки
+Советы и рекомендации по кодированию Viual Studio
+https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 
 ## Работа с таблицами
 
