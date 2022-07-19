@@ -43,7 +43,7 @@ https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 
 ## Работа с таблицами
 
-![Таблица] (Лист Microsoft Excel.xlsx)
+![Таблица] (Таблица.xlsx)
 
 ## Цытаты
 
