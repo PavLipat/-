@@ -43,9 +43,7 @@ https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 
 ## Работа с таблицами
 
-![Таблица] (Tables.xlsx)
-
-![1Таблица](1tables.docx)
+![Таблица](Tables.xlsx)
 
 ## Цытаты
 
