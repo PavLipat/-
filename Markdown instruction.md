@@ -48,3 +48,5 @@ https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 ## Цытаты
 
 ## Заключение
+
+Составили инструкцию по работе с Visual Studio Code.
