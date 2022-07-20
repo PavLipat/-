@@ -47,4 +47,6 @@ https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 
 ## Цытаты
 
+Не бойся, что не знаешь - бойся, что не учишся.
+
 ## Заключение
