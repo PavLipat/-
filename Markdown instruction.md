@@ -47,6 +47,8 @@ https://code.visualstudio.com/docs/getstarted/tips-and-tricks
 
 ## Цытаты
 
+ Если я знаю, что знаю мало, я добьюсь того, чтобы знать больше.
+
 ## Заключение
 
 Составили инструкцию по работе с Visual Studio Code.
